@@ -1,0 +1,24 @@
+1,1,Bogdan,Zarnescu,bibihno,19,2,Oana,Stejeroiu,oanastejeroiu,19,buna
+2,2,Oana,Stejeroiu,oanastejeroiu,19,1,Bogdan,Zarnescu,bibihno,19,bunaa
+3,1,Bogdan,Zarnescu,bibihno,19,2,Oana,Stejeroiu,oanastejeroiu,19,Ce faci?
+4,2,Oana,Stejeroiu,oanastejeroiu,19,1,Bogdan,Zarnescu,bibihno,19,Binee stau tu?
+5,1,Bogdan,Zarnescu,bibihno,19,2,Oana,Stejeroiu,oanastejeroiu,19,Ma pregatesc sa dorm.
+6,2,Oana,Stejeroiu,oanastejeroiu,19,1,Bogdan,Zarnescu,bibihno,19,Bine te las sa dormi.
+7,2,Oana,Stejeroiu,oanastejeroiu,19,1,Bogdan,Zarnescu,bibihno,19,Noapte bunaa<3
+8,1,Bogdan,Zarnescu,bibihno,19,2,Oana,Stejeroiu,oanastejeroiu,19,Mersii somn usor si tie:*
+9,5,Ale,Stanciu,ssstanciu14,20,1,Bogdan,Zarnescu,bibihno,19,hola
+10,6,Andrada,Ardelean,andrada.ardelean,20,1,Bogdan,Zarnescu,bibihno,19,Buna ziua
+11,4,Andreea,Tamasan,andreeaifta,19,5,Ale,Stanciu,ssstanciu14,20,Good afternoon
+12,6,Andrada,Ardelean,andrada.ardelean,20,4,Andreea,Tamasan,andreeaifta,19,Buenos dias
+13,5,Ale,Stanciu,ssstanciu14,20,6,Andrada,Ardelean,andrada.ardelean,20,Buna seara
+14,3,Alex,Topan,topi24,20,10,Raul,Turc,raul18,19,Good evening
+15,3,Alex,Topan,topi24,20,12,Darius,Sandru,dariusSandru,19,Buenas tardes
+16,10,Raul,Turc,raul18,19,12,Darius,Sandru,dariusSandru,19,Noapte buna
+17,2,Oana,Stejeroiu,oanastejeroiu,19,9,Vlad,Veltan,vladut123,19,Good night
+18,9,Vlad,Veltan,vladut123,19,7,Sandra,Chifor,chifor_andrada19,20,Buenas noches
+19,7,Sandra,Chifor,chifor_andrada19,20,8,Sergiu,Suciu,suciuSergiu,20,Ce faci?
+20,8,Sergiu,Suciu,suciuSergiu,20,11,Tudor,Suiu,suiu.tudor2002,20,How are you?
+21,11,Tudor,Suiu,suiu.tudor2002,20,13,Antonio,Stan,stanantonio,20,Que tal?
+22,13,Antonio,Stan,stanantonio,20,14,Alexandru,Zaharia,alexZaha,20,Bine tu?
+23,14,Alexandru,Zaharia,alexZaha,20,15,Iulia,Tugui,iulia2002,19,I'm fine u?
+24,15,Iulia,Tugui,iulia2002,19,2,Oana,Stejeroiu,oanastejeroiu,19,Muy bien y tu?

@@ -1,0 +1,15 @@
+1,Bogdan,Zarnescu,bibihno,19
+2,Oana,Stejeroiu,oanastejeroiu,19
+3,Alex,Topan,topi24,20
+4,Andreea,Tamasan,andreeaifta,19
+5,Ale,Stanciu,ssstanciu14,20
+6,Andrada,Ardelean,andrada.ardelean,20
+7,Sandra,Chifor,chifor_andrada19,20
+8,Sergiu,Suciu,suciuSergiu,20
+9,Vlad,Veltan,vladut123,19
+10,Raul,Turc,raul18,19
+11,Tudor,Suiu,suiu.tudor2002,20
+12,Darius,Sandru,dariusSandru,19
+13,Antonio,Stan,stanantonio,20
+14,Alexandru,Zaharia,alexZaha,20
+15,Iulia,Tugui,iulia2002,19
